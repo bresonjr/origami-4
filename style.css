@@ -1,0 +1,47 @@
+img{
+    border-style:ridge;
+    
+    
+}
+h1{
+    border-style:ridge;
+    
+}
+.toes:hover{
+    background-color: #e016ba;
+    display:flex;
+    justify-content: space-evenly;
+    font-style: italic;
+    font-size: 20px;
+    transform: scale(1);
+    
+}
+.header{
+    background-color: #f10675;
+    display:flex;
+    justify-content: space-evenly;
+    border: ridge;
+    font-size: 27px;
+    font-style: italic;
+    font-weight:bold;
+    
+}
+.footer:hover{
+    background-color: #e016ba;
+    display:flex;
+    justify-content: space-evenly;
+    font-style: italic;
+    font-size: 20px;
+    transform: scale(1.0);
+    
+}
+.main{
+    border-style:ridge;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+
